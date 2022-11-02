@@ -1,5 +1,7 @@
--I../common
-
+-Ipico-sdk/src/rp2_common/hardware_pio/include/
+-Ibuild
+-Ipico-sdk/src/rp2_common/pico_multicore/include
+-Ipico-sdk/src/host/pico_multicore/include
 -Ipico-sdk/src/common/pico_stdlib/include
 -Ipico-sdk/src/rp2_common/hardware_gpio/include
 -Ipico-sdk/src/common/pico_base/include
